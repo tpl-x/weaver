@@ -6,5 +6,5 @@ Service Weaver more easily.
 
 ```
 $ go install golang.org/x/tools/cmd/gonew@latest
-$ gonew github.com/ServiceWeaver/template example.com/foo
+$ gonew github.com/tpl-x/weaver example.com/foo
 ```
